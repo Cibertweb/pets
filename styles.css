@@ -380,4 +380,10 @@ html {
     opacity: 1;
     transform: translateY(0);
 }
-
+.logo {
+    max-width: 150px;
+    margin-top: 250px;
+    height: auto;
+    border-radius: 20px 2px 20px 2px;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));
+}
